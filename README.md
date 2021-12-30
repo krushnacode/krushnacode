@@ -4,7 +4,7 @@
 - 👀 I’m interested in Full stack Developement, AI developement
 
 - 🌱 I’m currently learning MERN STACK ,Django - flask(python),
-   Database - MySql,spqlite ,MongoDB
+   Database - MongoDB
 
 - 💞️ I’m looking to collaborate on open source projects
 
