@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Full stack Developement, AI developement
 
-- 🌱 I’m currently learning MERN STACK ,Django - flask(python),
+- 🌱 I’m currently learning MERN STACK  ,Django -(python),
    Database - MongoDB
 
 - 💞️ I’m looking to collaborate on open source projects
