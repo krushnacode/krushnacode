@@ -1,16 +1,16 @@
 - 👋 Hi, I’m @krushnacode 
   A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.
 
-- 👀 I’m interested in Full stack Developement, AI developement
+- 👀 I’m interested in Full stack Developement, AI developement,DevOps Development
 
 - 🌱 I’m currently learning MERN STACK  ,Django -(python),
-   Database - MongoDB
+   Database - MongoDB,DevOps
 
 - 💞️ I’m looking to collaborate on open source projects
 
 - 📫 How to reach me 
 
- Portfolio :- https://krushnacode.github.io/#/
+ Portfolio :- https://krushnacode.github.io/portfolio.github.io/#/
  LinkedIn   :-https://www.linkedin.com/in/krushna-jha-b30a7616a/
  Hackerrank :-https://www.hackerrank.com/KrushnaCode
  
