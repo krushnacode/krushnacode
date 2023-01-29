@@ -10,7 +10,7 @@
 
 - 📫 How to reach me 
 
- Portfolio :- https://krushnacode.github.io/devops.github.io/
+ Portfolio :- https://krushnacode.github.io/devops/
  LinkedIn   :-https://www.linkedin.com/in/krushna-jha-b30a7616a/
  Hackerrank :-https://www.hackerrank.com/KrushnaCode
  
