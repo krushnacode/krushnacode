@@ -11,7 +11,7 @@
 - 📫 How to reach me 
 
  Portfolio :- https://krushnacode.github.io/devops/
- LinkedIn   :-https://www.linkedin.com/in/krushna-jha-b30a7616a/
+ LinkedIn   :-[https://www.linkedin.com/in/krushna-jha-b30a7616a/](https://www.linkedin.com/in/krushnajha)
  Hackerrank :-https://www.hackerrank.com/KrushnaCode
  
  Any one can clone the code for there use.
